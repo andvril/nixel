@@ -1,0 +1,7 @@
+{
+  "homepage": "https://example.com",
+  "maintainers": [],
+  "repository": ["https://github.com/example/example"],
+  "versions": ["1.0.0"],
+  "yanked_versions": {}
+}

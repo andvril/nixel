@@ -1,0 +1,7 @@
+#!/nix/store/6k7zlr34ad56xjl210rmjcf7v9wpcj44-bash/bin/bash
+
+(
+  printf 'Bazel does not yet support coverage.\n'
+) >&2
+
+exit 1
